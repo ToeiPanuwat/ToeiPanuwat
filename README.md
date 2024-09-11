@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Toei Panuwat</h1>
+<h1 align="center">Hi 👋, I'm Toei Phanuwat</h1>
 <h3 align="center">A passionate backend developer.</h3>
 <h4 align="center"> I like to write code. It makes me concentrate. While I'm writing code There's nothing in my head anymore.
   In addition to developing and solving problems, it's also fun. </h4>
