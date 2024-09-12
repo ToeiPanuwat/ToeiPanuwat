@@ -11,7 +11,7 @@
 
 - 👨‍💻 Develop future goals for self-improvement and Big motivation
 
-- 📫 How to reach me **toeipanuvut@gmail.com**
+- 📫 How to reach me **phanuwat.sangharat@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
